@@ -1,0 +1,29 @@
+
+  # Vehicle Builder
+
+  ## Description
+  This Vehicle Builder prompts the user to create a new Vehicle. We focus on the use of TypeScript and Object Oriented Programming. 
+
+  ## Installation
+  Inquirer
+
+  ## Usage
+  Once you have both npm packages installed, open Node and run the application. You will prompted to "Create New Vehicle" or "Select an Existing Vehicle". Once you select the option to create, you can select a variety of vehicle types and then be prompted to select Color, Make, Model, Year, Weight, Top Speed, and Tow (for Trucks only).
+
+  ## Contributing
+  For this project, I got a lot of help from my awesome Tutor Andres Jiminez, my dad, and a variety of online resources including Xpert and mdn web docs.
+
+  ## Tests
+  1. Create a new vehicle and perform actions.
+  2. Select existing vehicle and perform actions.
+
+  https://youtu.be/RIa6yswBKTM
+
+  ## License
+  MIT
+
+  ## GitHub
+  jclark-bcamp
+
+  ## Email
+  jnssclark@email.com
